@@ -1,0 +1,7 @@
+- Software Name : Grey.
+- Description : Device Logging Software
+- Software Version : v1.1.0
+- Created-by : Quanteq Technology Services.
+- Authors :  Bashir Aliyu & Nazir Aliyu
+- Copyright © 2014, All rights reserved.
+- Build Time : March 17 2014 13:01:16
